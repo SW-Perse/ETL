@@ -15,3 +15,7 @@ The purpose of this repository is to provide actionable data to recommend travel
 ### 3. Upload data to datalake
 ### 4. Build SQL database
 ### Conclusion
+
+## Demos
+AWS S3 and RDS being paid services, the datalake and SQL databases were taken down. 
+Demonstrations for parts 3 and 4 of this notebook can be found in the "video_captures" folder of this repository.
