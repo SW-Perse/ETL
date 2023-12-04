@@ -2,6 +2,8 @@
 
 The purpose of this repository is to provide actionable data to recommend travel destinations and hotels. To this end, data was obtained through API calls and web scraping, cleaned and formatted, before being stored in a datalake and make readily available for use in an SQL database.
 
+This notebook is my Data Management project for Jedha's Machine Learning Engineer certificate.
+
 ## Requirements 
 `pip install requirements.txt`
 
